@@ -72,8 +72,8 @@ git clone https://github.com/Minas-27/Abu-Music.git
  ┣ 📂 res (generated)  
  ┗ 📜 AndroidManifest.xml  
 
+```
 ---
-
 ## 🚀 Future Improvements  
 
 🔹 **Add Cloud Syncing (Firebase/Firestore)**  
